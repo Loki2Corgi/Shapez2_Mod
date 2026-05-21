@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<OutputPath>$(SPZ2_PERSISTENT)\mods\MyMod</OutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="Core">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\Core.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Game.Core">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\Game.Core.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Game.Core.Modding">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\Game.Core.Modding.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Game.Orchestration">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\Game.Orchestration.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="SPZGameAssembly">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\SPZGameAssembly.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>$(SHAPEZ2_GAME_DIR)\shapez 2_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+</Project>

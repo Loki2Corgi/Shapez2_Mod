@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\MyMod\bin\Debug\netstandard2.1\MyMod.deps.json
+C:\Users\danie\source\repos\MyMod\bin\Debug\netstandard2.1\MyMod.dll
+C:\Users\danie\source\repos\MyMod\bin\Debug\netstandard2.1\MyMod.pdb
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.AssemblyInfo.cs
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.dll
+C:\Users\danie\source\repos\MyMod\obj\Debug\netstandard2.1\MyMod.pdb
